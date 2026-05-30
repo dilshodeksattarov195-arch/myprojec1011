@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercncrypt",
+        "uuid": 2908647,
+        "checksum": "6dmpc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
